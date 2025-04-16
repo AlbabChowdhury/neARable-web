@@ -1,8 +1,7 @@
 ### `How to Start`
 Download all the files in a folder.
-Open command prompt or terminal.
-open the folder in which all the files are downloaded.
-run the command"npm start"
+Open the folder in command prompt or terminal.
+Then run the command "npm start"
 
 ### `npm start`
 
