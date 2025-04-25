@@ -1,7 +1,6 @@
 ### `How to Start`
 Download all the files in a folder.
-Open the folder in command prompt or terminal.
-Then run the command "npm start"
+Open the folder in command prompt or terminal. Install npm using "install npm" on the terminal. Then run the command "npm start"
 
 ### `npm start`
 
